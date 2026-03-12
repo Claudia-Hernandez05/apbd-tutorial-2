@@ -2,3 +2,4 @@ Numbers app
 Feature: average
 Feature: max
 Feature: min step 1
+Feature: min step 2
