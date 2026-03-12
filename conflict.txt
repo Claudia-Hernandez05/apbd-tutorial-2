@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text from main branch
+=======
+Text from conflict branch
+>>>>>>> conflict-branch
