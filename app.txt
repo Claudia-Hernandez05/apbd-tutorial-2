@@ -1,1 +1,2 @@
 Numbers app
+Feature: average
