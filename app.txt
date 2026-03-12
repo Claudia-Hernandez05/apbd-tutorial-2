@@ -1,2 +1,3 @@
 Numbers app
 Feature: average
+Feature: max
